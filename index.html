@@ -40,7 +40,7 @@
       <!-- {{ todoData }} -->
       <div class="row">
         <div class="col-md-3" v-for="item in todoData">
-          <div class="card">
+          <div class="card mb-2">
             <div :id="'carouselExampleIndicators'+item.id" class="carousel slide" data-bs-ride="true">
               <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -66,7 +66,7 @@
               <h6 class="card-subtitle mb-2 text-muted">{{item.price}}</h6>
               <p class="card-subtitle mb-2"><b>Condition: {{item.condition}}</b></p>
               <p class="card-text">{{item.description}}</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <!-- <a href="#" class="btn btn-primary">Go somewhere</a> -->
             </div>
           </div>
         </div>
