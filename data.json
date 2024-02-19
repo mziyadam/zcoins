@@ -37,11 +37,20 @@
     },
     {   
         "id":"4",
+        "name":"Netherlands 25 Cents 1973",
+        "description":"Juliana ruled the Netherlands from 1948 to 1980. Coins minted in 1, 5, 10, and 25 cent denominations are made of non-precious metal and are not worth more than a few US dollars. One and five cents are minted in bronze, ten and twenty five cents are minted in nickel. There are different patterns on the reverse site.",
+        "condition":"Well Preserved",
+        "price":"€1",
+        "photoUrl1":"https://drive.google.com/file/d/14Jc91RIDPlGxFdFM9FFITs154Zl1009l/preview",
+        "photoUrl2":"https://drive.google.com/file/d/13x0uV6wd-ZX1siY8kp6tmJtUOPzD3I4J/preview"
+    },
+    {   
+        "id":"5",
         "name":"Netherlands 10 Cents 1973",
         "description":"Juliana ruled the Netherlands from 1948 to 1980. Coins minted in 1, 5, 10, and 25 cent denominations are made of non-precious metal and are not worth more than a few US dollars. One and five cents are minted in bronze, ten and twenty five cents are minted in nickel. There are different patterns on the reverse site.",
         "condition":"Well Preserved",
-        "price":"€5",
-        "photoUrl1":"https://drive.google.com/file/d/14Jc91RIDPlGxFdFM9FFITs154Zl1009l/preview",
-        "photoUrl2":"https://drive.google.com/file/d/13x0uV6wd-ZX1siY8kp6tmJtUOPzD3I4J/preview"
+        "price":"€1",
+        "photoUrl1":"https://drive.google.com/file/d/14Cq8pKJjoX4nCJcDYxdjYf8FGXsEuVyN/preview",
+        "photoUrl2":"https://drive.google.com/file/d/13qPuOzjoVbF5jzq2DbIW4CjvuoXB9hFJ/preview"
     }
 ]
